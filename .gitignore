@@ -1,0 +1,16 @@
+
+Modelo/conectaDbAux.php
+Validador/actualizarPlan.php
+Modelo/error_log
+Validador/actualizarUsuario.php
+Validador/error_log
+Validador/generarCobrarV.php
+Validador/nuevoClienteV.php
+Validador/nuevoPlanV.php
+Validador/recaudarV.php
+Validador/registrarUsuarioV.php
+Validador/validarInstalar.php
+Validador/validarReconectar.php
+Validador/validarSuspender.php
+Modelo/_notes/dwsync.xml
+Validador/_notes/dwsync.xml
