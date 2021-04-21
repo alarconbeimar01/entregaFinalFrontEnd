@@ -4,4 +4,6 @@
 <file name=".gitignore" server="bealri.com/public_html/yp/" local="132635178235975510" remote="132635182200000000" Dst="0" />
 <file name="index.html" server="bealri.com/public_html/yp/" local="132635182200000000" remote="132635182200000000" Dst="0" />
 <file name="session.php" server="bealri.com/public_html/yp/" local="132635201400000000" remote="132635201400000000" Dst="0" />
+<file name="error_log" server="bealri.com/public_html/yp/" local="132635200800000000" remote="132635200800000000" Dst="0" />
+<file name="login.php" server="bealri.com/public_html/yp/" local="132635201400000000" remote="132635201400000000" Dst="0" />
 </dwsync>
