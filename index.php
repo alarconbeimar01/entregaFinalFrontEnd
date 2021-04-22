@@ -21,7 +21,7 @@ header("location: entrada.php");
 </head>
 	
 <body>
-
+<header class="header"></header>
   <section class="login">
       <section class="login__container">
         <h2>Inicia sesión</h2>

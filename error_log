@@ -94,3 +94,16 @@
 [21-Apr-2021 18:29:14 America/Bogota] PHP Notice:  Undefined variable: conexion in /home/carroc/public_html/yp/entregaFinalFrontEnd/login.php on line 17
 [21-Apr-2021 18:29:14 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carroc/public_html/yp/entregaFinalFrontEnd/login.php on line 17
 [21-Apr-2021 18:29:14 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/entregaFinalFrontEnd/login.php on line 18
+[21-Apr-2021 18:33:18 America/Bogota] PHP Warning:  include(Modelo/conectaDb.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/entregaFinalFrontEnd/login.php on line 14
+[21-Apr-2021 18:33:18 America/Bogota] PHP Warning:  include(): Failed opening 'Modelo/conectaDb.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/carroc/public_html/yp/entregaFinalFrontEnd/login.php on line 14
+[21-Apr-2021 18:33:18 America/Bogota] PHP Notice:  Undefined variable: conexion in /home/carroc/public_html/yp/entregaFinalFrontEnd/login.php on line 17
+[21-Apr-2021 18:33:18 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carroc/public_html/yp/entregaFinalFrontEnd/login.php on line 17
+[21-Apr-2021 18:33:18 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/entregaFinalFrontEnd/login.php on line 18
+[21-Apr-2021 18:33:25 America/Bogota] PHP Warning:  include(Modelo/conectaDb.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/entregaFinalFrontEnd/login.php on line 14
+[21-Apr-2021 18:33:25 America/Bogota] PHP Warning:  include(): Failed opening 'Modelo/conectaDb.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/carroc/public_html/yp/entregaFinalFrontEnd/login.php on line 14
+[21-Apr-2021 18:33:25 America/Bogota] PHP Notice:  Undefined variable: conexion in /home/carroc/public_html/yp/entregaFinalFrontEnd/login.php on line 17
+[21-Apr-2021 18:33:25 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carroc/public_html/yp/entregaFinalFrontEnd/login.php on line 17
+[21-Apr-2021 18:33:25 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/entregaFinalFrontEnd/login.php on line 18
+[21-Apr-2021 18:57:48 America/Bogota] PHP Parse error:  syntax error, unexpected '<' in /home/carroc/public_html/yp/entregaFinalFrontEnd/index.php on line 49
+[21-Apr-2021 18:57:50 America/Bogota] PHP Parse error:  syntax error, unexpected '<' in /home/carroc/public_html/yp/entregaFinalFrontEnd/index.php on line 49
+[21-Apr-2021 18:57:51 America/Bogota] PHP Parse error:  syntax error, unexpected '<' in /home/carroc/public_html/yp/entregaFinalFrontEnd/index.php on line 49
