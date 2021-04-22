@@ -15,11 +15,13 @@ header("location: entrada.php");
   <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
   <!-- Styles -->
   <link rel="stylesheet" href="./css/styles-login.css">
-  <!-- Title -->
+	
+	
   <title>Iniciar Sesión</title>
 </head>
+	
 <body>
-<header class="header"></header>
+
   <section class="login">
       <section class="login__container">
         <h2>Inicia sesión</h2>
@@ -28,6 +30,8 @@ header("location: entrada.php");
 				<input class="input" type="password" placeholder="Contraseña" name="password" required>
 				<input class="button" name="submit" type="submit" value="Ingresar">
 				
+				
+				<span><?php echo $error; ?></span>
 				<div class="login__container--remember-me">
 			  
 			
@@ -40,21 +44,29 @@ header("location: entrada.php");
 				
 				
 			</form>
-			<div class="clear"> </div>
-				<p><span><?php echo $error; ?></span>
-			  </p>
-				   
-<?php echo '<a href="registro.php">Registrarse</a>';?>
+			
+<?php if($error=="El Usuario o la contraseña es inválida."){ ?>
+		  <script src="js/alertas.js"></script>
+<script>
+  mensajeErrorLogin();
+</script>
+<?	
+}
+	 ?>
+			  
+<p class="login__container--register">No tienes ninguna cuenta <a href="registro.php">Regístrate</a></p>				   
+
 			</div>
 			
 			
 		</div>
-	</div>
-</div>
-<!--header end here-->
-<!--copy rights end here-->
-
-<!--copyrights start here-->
+	</section>
+  </section>
+  <footer class="footer">
+    <a href="">Términos de uso</a>
+    <a href="">Declaración de privacidad</a>
+    <a href="">Centro de ayudas</a>
+  </footer>
  
 </body>
 </html>
