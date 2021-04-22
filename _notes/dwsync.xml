@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="index.php" server="bealri.com/public_html/yp/" local="132635200127102324" remote="132635200200000000" Dst="0" />
-<file name=".gitignore" server="bealri.com/public_html/yp/" local="132635178235975510" remote="132635182200000000" Dst="0" />
+<file name="index.php" server="bealri.com/public_html/yp/" local="132635247508428189" remote="132635247000000000" Dst="0" />
+<file name=".gitignore" server="bealri.com/public_html/yp/" local="132635203206641725" remote="132635205600000000" Dst="0" />
 <file name="index.html" server="bealri.com/public_html/yp/" local="132635182200000000" remote="132635182200000000" Dst="0" />
-<file name="session.php" server="bealri.com/public_html/yp/" local="132635204332044736" remote="132635203800000000" Dst="0" />
-<file name="error_log" server="bealri.com/public_html/yp/" local="132635200800000000" remote="132635200800000000" Dst="0" />
+<file name="session.php" server="bealri.com/public_html/yp/" local="132635217471478597" remote="132635217000000000" Dst="0" />
+<file name="error_log" server="bealri.com/public_html/yp/" local="132635213400000000" remote="132635213400000000" Dst="0" />
 <file name="login.php" server="bealri.com/public_html/yp/" local="132635201400000000" remote="132635201400000000" Dst="0" />
+<file name="logout.php" server="bealri.com/public_html/yp/" local="132635218800000000" remote="132635218800000000" Dst="0" />
 </dwsync>
