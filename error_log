@@ -107,3 +107,6 @@
 [21-Apr-2021 18:57:48 America/Bogota] PHP Parse error:  syntax error, unexpected '<' in /home/carroc/public_html/yp/entregaFinalFrontEnd/index.php on line 49
 [21-Apr-2021 18:57:50 America/Bogota] PHP Parse error:  syntax error, unexpected '<' in /home/carroc/public_html/yp/entregaFinalFrontEnd/index.php on line 49
 [21-Apr-2021 18:57:51 America/Bogota] PHP Parse error:  syntax error, unexpected '<' in /home/carroc/public_html/yp/entregaFinalFrontEnd/index.php on line 49
+[23-Apr-2021 09:44:31 America/Bogota] PHP Warning:  include(profile.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/entregaFinalFrontEnd/entrada.php on line 2
+[23-Apr-2021 09:44:31 America/Bogota] PHP Warning:  include(): Failed opening 'profile.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/carroc/public_html/yp/entregaFinalFrontEnd/entrada.php on line 2
+[23-Apr-2021 09:44:31 America/Bogota] PHP Notice:  Undefined variable: login_sessionPrivilegios in /home/carroc/public_html/yp/entregaFinalFrontEnd/entrada.php on line 26
