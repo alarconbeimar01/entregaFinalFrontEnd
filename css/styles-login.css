@@ -31,7 +31,7 @@ body {
   border-radius: 40px;
   color: white;
   padding: 60px 68px 40px;
-  min-height: 500px; 
+  min-height: auto; 
   width: 300px;
   display: flex;
   justify-content: space-around;

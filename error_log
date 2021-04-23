@@ -110,3 +110,13 @@
 [23-Apr-2021 09:44:31 America/Bogota] PHP Warning:  include(profile.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/entregaFinalFrontEnd/entrada.php on line 2
 [23-Apr-2021 09:44:31 America/Bogota] PHP Warning:  include(): Failed opening 'profile.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/carroc/public_html/yp/entregaFinalFrontEnd/entrada.php on line 2
 [23-Apr-2021 09:44:31 America/Bogota] PHP Notice:  Undefined variable: login_sessionPrivilegios in /home/carroc/public_html/yp/entregaFinalFrontEnd/entrada.php on line 26
+[23-Apr-2021 10:56:04 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 8
+[23-Apr-2021 10:56:04 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 12
+[23-Apr-2021 10:56:04 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 13
+[23-Apr-2021 10:56:04 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 14
+[23-Apr-2021 12:08:33 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 8
+[23-Apr-2021 12:08:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 12
+[23-Apr-2021 12:08:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 13
+[23-Apr-2021 12:08:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 14
+[23-Apr-2021 12:27:45 America/Bogota] PHP Notice:  Undefined variable: login_session in /home/carroc/public_html/yp/entregaFinalFrontEnd/porInstalar.php on line 26
+[23-Apr-2021 12:28:00 America/Bogota] PHP Notice:  Undefined variable: login_session in /home/carroc/public_html/yp/entregaFinalFrontEnd/porInstalar.php on line 26
