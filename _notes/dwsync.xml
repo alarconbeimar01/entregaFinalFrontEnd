@@ -19,5 +19,6 @@
 <file name="generarCobrar.php" server="bealri.com/public_html/yp/" local="132637507772716305" remote="132637507200000000" Dst="0" />
 <file name="recaudar.php" server="bealri.com/public_html/yp/" local="132637553663588776" remote="132637553400000000" Dst="0" />
 <file name="imprimirRecaudo.php" server="bealri.com/public_html/yp/" local="132637553400000000" remote="132637553400000000" Dst="0" />
-<file name="reporteRecaudo.php" server="bealri.com/public_html/yp/" local="132637570661533422" remote="132637570200000000" Dst="0" />
+<file name="reporteRecaudo.php" server="bealri.com/public_html/yp/" local="132637584476990049" remote="132637584000000000" Dst="0" />
+<file name="listarClientes.php" server="bealri.com/public_html/yp/" local="132637590902753739" remote="132637590600000000" Dst="0" />
 </dwsync>

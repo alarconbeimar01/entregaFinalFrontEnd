@@ -20,10 +20,11 @@ include("header.php");
 
 ?>
 	  <section class="main">
-		  <section class="main__container--Gc">
+		  <h2 class=" main_tible">Reporte Recaudo</h2>
+		  <section class="main__container">
 
 
-  <h2 class=" main_tible">Reporte Recaudo</h2>
+  
 <form action="#" method="post" name="buscador">
 
   
@@ -79,8 +80,7 @@ while($recaudadores = mysqli_fetch_array($recaudador)){
         
 </form>
 </div>
-<br />
-      
+      </section>
       
         <div align="center">
           <?php
@@ -106,10 +106,9 @@ $respuesta = mysqli_query($conexion, $sql);
 
 ?>
           
+                    </p>
           
-          </p>
-          
-          <table width="auro%" border="1">
+          <table width="auto%" border="1">
             
             
             

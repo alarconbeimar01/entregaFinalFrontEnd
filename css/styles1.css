@@ -93,11 +93,11 @@
   border-radius: 40px;
   color: white;
   padding: 60px 68px 40px;
-  min-height: auto; 
-  width: auto;
+  /* min-height: 700px; */
+  width: 85%;
   display: flex;
   justify-content: space-around;
- flex-direction: column; 
+  flex-direction: column;
 }
 .main__container--tablas {
   background-color: rgba(255, 255, 255, 0.1);
