@@ -1,17 +1,30 @@
-<?php
-	include( 'profile.php' );
-	?>
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="es">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Nuevo Cliente</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- Font -->
+  <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="./css/styles1.css">
+	<link rel="stylesheet" href="css/menu.css">
+<title>Generador de cuentas de cobro</title>
 </head>
+	
+<script src="js/alertas.js"></script>
 
 <body>
-<div  class="login-main">
-<h2 align="center">Generar Mensualidades </h2>
+	<?php
+  
+include("header.php");
+
+?>
+	  <section class="main">
+		  <section class="main__container--Gc">
+
+
+  <h2 class=" main_tible">Generar Mensualidades</h2>
+<p>
 <form action="Validador/generarCobrarV.php" method="post" >
 <div align="center">
 
@@ -27,9 +40,10 @@ Mes $mes del año $ano</span>"?>
       
         <input type="hidden" name="mes" id="mes" hidden="" value="<? echo $integrado ?>" />
       
-      <input type="submit" name="generar" value="Generar" />
+      <input class="button" type="submit" name="generar" value="Generar" />
 </div>
 </form>
+			  </p>
 <div align="center">
   <?php
 
@@ -52,8 +66,13 @@ elseif($mensaje=="mensualidad2"){
 </div>
 </div>
 
-<div align="center"><br>
-  <? echo '<a href="index.php"><h2>Regresar</h2></a>'; ?>
-</div>
+</section>
+
+</section>
+<?php
+  
+include("footer.html");
+
+?>
 </body>
 </html>

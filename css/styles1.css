@@ -87,6 +87,18 @@
   justify-content: space-around;
  /* flex-direction: column; */
 }
+.main__container--Gc {
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 2px solid white;
+  border-radius: 40px;
+  color: white;
+  padding: 60px 68px 40px;
+  min-height: auto; 
+  width: auto;
+  display: flex;
+  justify-content: space-around;
+ flex-direction: column; 
+}
 .main__container--tablas {
   background-color: rgba(255, 255, 255, 0.1);
   border: 2px solid white;
@@ -197,6 +209,12 @@ padding: 0px 50px 0px 50px;
 
 @media only screen and (max-width:600px) {
   .main__container {
+    background-color: transparent;
+    border: none;
+    padding: 0px;
+    width: 100%;
+  }
+	.main__container--Gc {
     background-color: transparent;
     border: none;
     padding: 0px;
