@@ -4,7 +4,7 @@
 <file name=".gitignore" server="bealri.com/public_html/yp/" local="132635248253559981" remote="132635251800000000" Dst="0" />
 <file name="index.html" server="bealri.com/public_html/yp/" local="132635182200000000" remote="132635182200000000" Dst="0" />
 <file name="session.php" server="bealri.com/public_html/yp/" local="132635217471478597" remote="132635217000000000" Dst="0" />
-<file name="error_log" server="bealri.com/public_html/yp/" local="132636728179751518" remote="132636724800000000" Dst="0" />
+<file name="error_log" server="bealri.com/public_html/yp/" local="132637536000000000" remote="132637536000000000" Dst="0" />
 <file name="login.php" server="bealri.com/public_html/yp/" local="132635201400000000" remote="132635201400000000" Dst="0" />
 <file name="logout.php" server="bealri.com/public_html/yp/" local="132635218800000000" remote="132635218800000000" Dst="0" />
 <file name="entrada.php" server="bealri.com/public_html/yp/" local="132636626046694548" remote="132636625800000000" Dst="0" />
@@ -17,4 +17,6 @@
 <file name="nuevoCliente.php" server="bealri.com/public_html/yp/" local="132636818070691188" remote="132636817800000000" Dst="0" />
 <file name="instalar.php" server="bealri.com/public_html/yp/" local="132636838224282498" remote="132636838200000000" Dst="0" />
 <file name="generarCobrar.php" server="bealri.com/public_html/yp/" local="132637507772716305" remote="132637507200000000" Dst="0" />
+<file name="recaudar.php" server="bealri.com/public_html/yp/" local="132637553663588776" remote="132637553400000000" Dst="0" />
+<file name="imprimirRecaudo.php" server="bealri.com/public_html/yp/" local="132637553400000000" remote="132637553400000000" Dst="0" />
 </dwsync>

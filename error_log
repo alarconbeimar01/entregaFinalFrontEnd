@@ -120,3 +120,108 @@
 [23-Apr-2021 12:08:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 14
 [23-Apr-2021 12:27:45 America/Bogota] PHP Notice:  Undefined variable: login_session in /home/carroc/public_html/yp/entregaFinalFrontEnd/porInstalar.php on line 26
 [23-Apr-2021 12:28:00 America/Bogota] PHP Notice:  Undefined variable: login_session in /home/carroc/public_html/yp/entregaFinalFrontEnd/porInstalar.php on line 26
+[23-Apr-2021 13:08:38 America/Bogota] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/entregaFinalFrontEnd/porInstalar.php on line 80
+[23-Apr-2021 13:08:38 America/Bogota] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/carroc/public_html/yp/entregaFinalFrontEnd/porInstalar.php on line 80
+[23-Apr-2021 13:08:43 America/Bogota] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/entregaFinalFrontEnd/porInstalar.php on line 80
+[23-Apr-2021 13:08:43 America/Bogota] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/carroc/public_html/yp/entregaFinalFrontEnd/porInstalar.php on line 80
+[23-Apr-2021 13:34:17 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 8
+[23-Apr-2021 13:34:17 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 12
+[23-Apr-2021 13:34:17 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 13
+[23-Apr-2021 13:34:17 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 14
+[23-Apr-2021 13:42:49 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 8
+[23-Apr-2021 13:42:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 12
+[23-Apr-2021 13:42:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 13
+[23-Apr-2021 13:42:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 14
+[23-Apr-2021 14:14:54 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 8
+[23-Apr-2021 14:14:54 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 12
+[23-Apr-2021 14:14:54 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 13
+[23-Apr-2021 14:14:54 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 14
+[23-Apr-2021 14:16:27 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 8
+[23-Apr-2021 14:16:27 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 12
+[23-Apr-2021 14:16:27 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 13
+[23-Apr-2021 14:16:27 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 14
+[23-Apr-2021 15:10:29 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 8
+[23-Apr-2021 15:10:29 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 12
+[23-Apr-2021 15:10:29 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 13
+[23-Apr-2021 15:10:29 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 14
+[23-Apr-2021 15:22:21 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 8
+[23-Apr-2021 15:22:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 12
+[23-Apr-2021 15:22:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 13
+[23-Apr-2021 15:22:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 14
+[23-Apr-2021 15:24:47 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 8
+[23-Apr-2021 15:24:47 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 12
+[23-Apr-2021 15:24:47 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 13
+[23-Apr-2021 15:24:47 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 14
+[23-Apr-2021 15:36:06 America/Bogota] PHP Notice:  Undefined index: idCliente in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 26
+[23-Apr-2021 15:36:06 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 42
+[23-Apr-2021 15:36:06 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 43
+[23-Apr-2021 15:36:06 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 44
+[23-Apr-2021 15:36:06 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 45
+[23-Apr-2021 15:36:06 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 46
+[23-Apr-2021 15:36:06 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 47
+[23-Apr-2021 15:36:06 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 48
+[23-Apr-2021 15:36:06 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 49
+[23-Apr-2021 15:36:06 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 50
+[23-Apr-2021 15:36:06 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 51
+[23-Apr-2021 15:36:06 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 52
+[23-Apr-2021 15:36:06 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 57
+[23-Apr-2021 15:36:06 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 58
+[23-Apr-2021 15:36:33 America/Bogota] PHP Notice:  Undefined index: idCliente in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 26
+[23-Apr-2021 15:36:33 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 42
+[23-Apr-2021 15:36:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 43
+[23-Apr-2021 15:36:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 44
+[23-Apr-2021 15:36:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 45
+[23-Apr-2021 15:36:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 46
+[23-Apr-2021 15:36:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 47
+[23-Apr-2021 15:36:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 48
+[23-Apr-2021 15:36:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 49
+[23-Apr-2021 15:36:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 50
+[23-Apr-2021 15:36:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 51
+[23-Apr-2021 15:36:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 52
+[23-Apr-2021 15:36:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 57
+[23-Apr-2021 15:36:33 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 58
+[23-Apr-2021 15:36:34 America/Bogota] PHP Notice:  Undefined index: idCliente in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 26
+[23-Apr-2021 15:36:34 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 42
+[23-Apr-2021 15:36:34 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 43
+[23-Apr-2021 15:36:34 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 44
+[23-Apr-2021 15:36:34 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 45
+[23-Apr-2021 15:36:34 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 46
+[23-Apr-2021 15:36:34 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 47
+[23-Apr-2021 15:36:34 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 48
+[23-Apr-2021 15:36:34 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 49
+[23-Apr-2021 15:36:34 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 50
+[23-Apr-2021 15:36:34 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 51
+[23-Apr-2021 15:36:34 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 52
+[23-Apr-2021 15:36:34 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 57
+[23-Apr-2021 15:36:34 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 58
+[23-Apr-2021 15:37:08 America/Bogota] PHP Notice:  Undefined index: idCliente in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 26
+[23-Apr-2021 15:37:08 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 42
+[23-Apr-2021 15:37:08 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 43
+[23-Apr-2021 15:37:08 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 44
+[23-Apr-2021 15:37:08 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 45
+[23-Apr-2021 15:37:08 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 46
+[23-Apr-2021 15:37:08 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 47
+[23-Apr-2021 15:37:08 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 48
+[23-Apr-2021 15:37:08 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 49
+[23-Apr-2021 15:37:08 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 50
+[23-Apr-2021 15:37:08 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 51
+[23-Apr-2021 15:37:08 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 52
+[23-Apr-2021 15:37:08 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 57
+[23-Apr-2021 15:37:08 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/instalar.php on line 58
+[23-Apr-2021 15:58:25 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 8
+[23-Apr-2021 15:58:25 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 12
+[23-Apr-2021 15:58:25 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 13
+[23-Apr-2021 15:58:25 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 14
+[24-Apr-2021 10:35:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/recaudar.php on line 57
+[24-Apr-2021 10:35:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/recaudar.php on line 58
+[24-Apr-2021 10:35:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/recaudar.php on line 59
+[24-Apr-2021 10:35:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/recaudar.php on line 60
+[24-Apr-2021 10:35:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/recaudar.php on line 61
+[24-Apr-2021 10:35:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/recaudar.php on line 62
+[24-Apr-2021 10:35:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/recaudar.php on line 63
+[24-Apr-2021 10:35:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/recaudar.php on line 64
+[24-Apr-2021 10:35:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/recaudar.php on line 65
+[24-Apr-2021 11:00:07 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 8
+[24-Apr-2021 11:00:07 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 12
+[24-Apr-2021 11:00:07 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 13
+[24-Apr-2021 11:00:07 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/entregaFinalFrontEnd/session.php on line 14
