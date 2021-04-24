@@ -1,15 +1,30 @@
-<?php
-	include( 'profile.php' );
-	?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="es">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- Font -->
+  <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="./css/styles1.css">
+	<link rel="stylesheet" href="css/menu.css">
 <title>Info Cliente</title>
 </head>
+	
+<script src="js/alertas.js"></script>
 
 <body>
-<div class="login-main" align="center">
+	<?php
+  
+include("header.php");
+
+?>
+	  <section class="main">
+		  <h2 class=" main_tible">Info de Cliente</h2>
+		  <section class="main__container">
+
+
+  
 <?php
 
 $ref=$_POST['idCliente'];	
@@ -22,7 +37,7 @@ $sql ="CALL INFOCLIENTE('$ref')";
 
 $respuesta = mysqli_query($conexion, $sql);
 
-?><h2 align="center"> Info Cliente  </h2>
+?>
 
 <div align="left">
   <table width="95%" border="1">
@@ -97,42 +112,20 @@ $filas = mysqli_fetch_array($respuesta);
       
       ?>
       </div>
-        <form action="Validador/validarInstalar.php" name="instalar" method="post">
-          <div align="center">
-            <table width="90%" border="0">
-              <tr>
-                <th scope="row"><div align="right">Ref  : </div></th>
-                <td><div align="left">
-                  <input type="text" name="ip" id="ip"  required="required"  />
-                </div></td>
-              </tr>
-              <tr>
-                <th scope="row"><div align="right">N/S Router : </div></th>
-                <td><input type="text" name="ns" id="ns" required="required"  /></td>
-              </tr>
-              <tr>
-                <th colspan="2" scope="row"><div align="right">
-                  <input type="hidden" hidden="" value="<?php echo $idUsuario?>" name="usuario" id="usuario" />
-                  <input type="hidden" hidden="" value="<?php echo $identificacion ?>" name="identificacion" id="identificacion" />
-                </div>                  <div align="left">
-                  <input type="submit" name="btinstalar" value="Registrar Instalación" />
-                </div></th>
-              </tr>
-            </table>
-          </div>
-        </form>
-        <div align="center">
+       
+        
           <?php
 	  }
 	  
 	  
 		?>
-          <div align="center">
-          <? echo '<a href="index.php"><h2>Regresar</h2></a>'; ?>
-          </div>
-      </div>
-    
-</div>
+           </section>
 
+</section>
+<?php
+  
+include("footer.html");
+
+?>
 </body>
 </html>
