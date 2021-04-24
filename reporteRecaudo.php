@@ -164,12 +164,11 @@ $respuesta1 = mysqli_query($conexionAux, $tt);
         
         
         </p>
-        <div class="login-main" align="center">
-        <table width="90%" border="1">
+        
+        <table style="border-radius: 10px;" width="90%" border="1">
           
           
-          
-          
+                   
           
           <tr>
             <th scope="col">Ref</th>
