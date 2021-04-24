@@ -1,15 +1,30 @@
-<?php
-	include( 'profile.php' );
-	?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="es">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Info Cliente</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- Font -->
+  <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="./css/styles1.css">
+	<link rel="stylesheet" href="css/menu.css">
+<title>Datos Usuario</title>
 </head>
+	
+<script src="js/alertas.js"></script>
 
 <body>
-<div class="login-main" align="center">
+	<?php
+  
+include("header.php");
+
+?>
+	  <section class="main">
+		  <h2 class=" main_tible">Info Usuario</h2>
+		  <section class="main__container">
+
+
+  
 <?php
 
 $ref=$_POST['idUsuario'];
@@ -167,9 +182,13 @@ $filas = mysqli_fetch_array($respuesta);
 	  ?>    
 
   </div>       
-    <div align="center"><br>
-  <? echo '<a href="listarUsuarios.php"><h2>Regresar</h2></a>'; ?>
-</div>
+      </section>
 
+</section>
+<?php
+  
+include("footer.html");
+
+?>
 </body>
 </html>
