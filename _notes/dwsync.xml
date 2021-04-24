@@ -22,4 +22,6 @@
 <file name="reporteRecaudo.php" server="bealri.com/public_html/yp/" local="132637584476990049" remote="132637584000000000" Dst="0" />
 <file name="listarClientes.php" server="bealri.com/public_html/yp/" local="132637590902753739" remote="132637590600000000" Dst="0" />
 <file name="verCliente.php" server="bealri.com/public_html/yp/" local="132637597474008271" remote="132637597200000000" Dst="0" />
+<file name="listarUsuarios.php" server="bealri.com/public_html/yp/" local="132637601111027344" remote="132637600800000000" Dst="0" />
+<file name="verUsuario.php" server="bealri.com/public_html/yp/" local="132637602000000000" remote="132637602000000000" Dst="0" />
 </dwsync>
