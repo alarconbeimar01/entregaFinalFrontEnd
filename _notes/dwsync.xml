@@ -11,7 +11,7 @@
 <file name="profile.php" server="bealri.com/public_html/yp/" local="132636627000000000" remote="132636627000000000" Dst="0" />
 <file name="porInstalar.php" server="bealri.com/public_html/yp/" local="132636827333006248" remote="132636826800000000" Dst="0" />
 <file name="porInstalar.html" server="bealri.com/public_html/yp/" local="132636670800000000" remote="132636670800000000" Dst="0" />
-<file name="header.php" server="bealri.com/public_html/yp/" local="132636744539665998" remote="132636744000000000" Dst="0" />
+<file name="header.php" server="bealri.com/public_html/yp/" local="132637732062965622" remote="132637731600000000" Dst="0" />
 <file name="footer.html" server="bealri.com/public_html/yp/" local="132636755841703391" remote="132636756000000000" Dst="0" />
 <file name="nuevoCliente.html" server="bealri.com/public_html/yp/" local="132636798000000000" remote="132636798000000000" Dst="0" />
 <file name="nuevoCliente.php" server="bealri.com/public_html/yp/" local="132636818070691188" remote="132636817800000000" Dst="0" />
@@ -24,4 +24,10 @@
 <file name="verCliente.php" server="bealri.com/public_html/yp/" local="132637597474008271" remote="132637597200000000" Dst="0" />
 <file name="listarUsuarios.php" server="bealri.com/public_html/yp/" local="132637601111027344" remote="132637600800000000" Dst="0" />
 <file name="verUsuario.php" server="bealri.com/public_html/yp/" local="132637606232954257" remote="132637606200000000" Dst="0" />
+<file name="listarPlanes.php" server="bealri.com/public_html/yp/" local="132637727273291899" remote="132637726800000000" Dst="0" />
+<file name="verPlan.php" server="bealri.com/public_html/yp/" local="132637730545367748" remote="132637730400000000" Dst="0" />
+<file name="porSuspender.php" server="bealri.com/public_html/yp/" local="132637736355732281" remote="132637735800000000" Dst="0" />
+<file name="suspenderCliente.php" server="bealri.com/public_html/yp/" local="132637738742154679" remote="132637738200000000" Dst="0" />
+<file name="porReconectar.php" server="bealri.com/public_html/yp/" local="132637741821742998" remote="132637741800000000" Dst="0" />
+<file name="reconectarCliente.php" server="bealri.com/public_html/yp/" local="132637747218379647" remote="132637747200000000" Dst="0" />
 </dwsync>

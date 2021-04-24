@@ -4,7 +4,7 @@ include("session.php");
 
 ?>
 <header class="header">
-	  <img class="header__img" src="imagenes/iconologo.png" alt="Logo">
+	<a href="index.php"><img class="header__img" src="imagenes/iconologo.png" alt="Logo"></a>
 		<div class="header__menu">
 		<div class="header__menu__perfil">
 			<img src="imagenes/user-icon.png" alt="perfil"><p><?php echo $login_session; ?></p>
