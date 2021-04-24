@@ -49,7 +49,6 @@ $filas = mysqli_fetch_array($respuesta);
 	$idUsuario = $login_sessions;
 	$priUsuario = $login_sessionPrivilegios;
 ?>
-<h2 align="center"> Info Usuario  </h2>
 
 <div align="left">
   <table width="95%" border="1">
@@ -113,20 +112,20 @@ $filas = mysqli_fetch_array($respuesta);
       <form action="Validador/actualizarUsuario.php" method="post" name="actualizarUsuario">
       <table width="95%" border="1">
   <tr>
-    <th colspan="2" scope="row">Modificar Datos</th>
+    <th colspan="2" scope="row">Actualizar Datos</th>
     </tr>
   <tr>
-    <th scope="row">Teléfono :</th>
-    <td><input type="text" name="telefono" id="telefono" value="<?php echo $telefono?>" /></td>
+    <th scope="row">Teléfono:</th>
+    <td><input class="input" type="text" name="telefono" id="telefono" value="<?php echo $telefono?>" /></td>
   </tr>
   <tr>
     <th scope="row">e-mail :</th>
-    <td><input type="text" name="mail" id="mail" value="<?php echo $correo?>" />
+    <td><input class="input" type="text" name="mail" id="mail" value="<?php echo $correo?>" />
 	</td>
   </tr>
   <tr>
     <th scope="row">Perfil :</th>
-    <td><select name="rol" id="rol">
+    <td><select class="input" name="rol" id="rol">
         <?php
 	
 	if($rol==1){
@@ -152,7 +151,7 @@ $filas = mysqli_fetch_array($respuesta);
   </tr>
   <tr>
     <th scope="row">Estado:</th>
-    <td><select name="estado" id="estado">
+    <td><select class="input" name="estado" id="estado">
           <?php
 	
 	if($estado==1){
@@ -171,7 +170,7 @@ $filas = mysqli_fetch_array($respuesta);
         </td>
   </tr>
   <tr>
-    <th colspan="2" scope="row"><input type="submit" name="actualizar" value="Actualizar"></th>
+    <th colspan="2" scope="row"><input class="button" type="submit" name="actualizar" value="Actualizar"></th>
   </tr>
 </table>
 </form>
