@@ -1,7 +1,4 @@
-	<?php
-	include( 'profile.php' );
-	?>
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -9,17 +6,20 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <!-- Font -->
   <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
-  <!-- Styles -->
-  <link rel="stylesheet" href="css/styles1.css">
-	
-	
-  <title>Iniciar Sesión</title>
+	<link rel="stylesheet" href="./css/styles1.css">
+	<link rel="stylesheet" href="css/menu.css">
+<title>Listado Cliente</title>
 </head>
+	<script src="js/alertas.js"></script>
 
 <body>
-<header class="header"></header>
-  <section class="login">
-      <section class="login__container">
+	<?php
+  
+include("header.php");
+
+?>
+	  <section class="main">
+		  <section class="main__container">
 
 <div align="center">
   <?php
@@ -46,99 +46,49 @@ elseif($mensaje=="cliente2"){
 }
 ?>
 </div>
-<div class="login-main" align="center">
-  <table width="95%" border="0"><? if ($pri ==1 || $pri==2){ ?>
-  <tr>
+<div  align="center">
+    <nav class="nav-collapse">
 
-    <td><form action="porInstalar.php">
-      <div align="center">
-        <input type="submit" value="Por Instalar" />
-      </div>
-    </form></td>
-    </tr><? } ?><? if ($pri ==1 || $pri==3){ ?>
-  <tr>
+      <ul>
+         
+           <? if ($pri ==1 ){ ?>
+        <li><a href="listarClientes.php">Listar Clientes</a></li>
+          <? } ?>
+          <? if ($pri ==1 || $pri==3){ ?>
+        <li><a href="nuevoCliente.php">Agregar Cliente</a></li>
+          
+         
+        <li><a href="recaudar.php">Recaudar</a></li>
+        <li><a href="reporteRecaudo.php">Reporte Recaudos</a></li>
+           <? } ?>
+          <? if ($pri ==1 ){ ?>
+         <li><a href="listarUsuarios.php">Usuarios</a></li>
+        <li><a href="listarPlanes.php">Planes</a></li>
+           <? } ?>
+         <? if ($pri ==1 || $pri==2){ ?>
+        <li><a href="porInstalar.php">Instalaciones</a></li>
+        <li><a href="porSuspender.php">Suspenciones</a></li>
+          
+          
+         <li><a href="porReconectar.php">Reconexiones</a></li>
+          <? } ?>
+           <? if ($pri ==1 ){ ?>
+        <li><a href="generarCobrar.php">Mensualidades</a></li>
+            <? } ?>
+      </ul>
+        
 
-    <td><form action="nuevoCliente.php">
-      <div align="center">
-        <input type="submit" value="Nuevo Cliente" />
-      </div>
-    </form></td>
-    </tr><? } ?><? if ($pri ==1){ ?>
-  <tr>
-
-    <td><form action="generarCobrar.php">
-      <div align="center">
-        <input type="submit" value=" Generar Cobrar" />
-      </div>
-    </form></td>
-    </tr><? } ?><? if ($pri ==1 || $pri==3){ ?>
-  <tr>
-
-    <td><div align="center"></div><form action="recaudar.php">
-      <div align="center">
-        <input type="submit" value="Recaudar" />
-      </div>
-    </form></td>
-    </tr>
-	<tr>
-
-    <td><div align="center"></div><form action="reporteRecaudo.php">
-      <div align="center">
-        <input type="submit" value="Reporte Recaudo" />
-      </div>
-    </form></td>
-    </tr><? } ?><? if ($pri ==1 ){ ?>
-
-  <tr>
-    <td><div align="center"><form action="listarClientes.php">
-      <div align="center">
-        <input type="submit" value="Clientes" />
-      </div>
-    </form></div></td>
-    </tr>
-  <tr>
-    <td><div align="center"><form action="listarUsuarios.php">
-      <div align="center">
-        <input type="submit" value="Usuarios" />
-      </div>
-    </form></div></td>
-    </tr>
-  <tr>
-    <td><div align="center"><form action="listarPlanes.php">
-      <div align="center">
-        <input type="submit" value="Planes" />
-      </div>
-    </form></div></td>
-    </tr><? } ?><? if ($pri ==1 || $pri==2 ){ ?>
-	 <tr>
-    <td><div align="center"><form action="porSuspender.php">
-      <div align="center">
-        <input type="submit" value="Por Suspender" />
-      </div>
-    </form></div></td>
-    </tr>
-    
-    <tr>
-    <td><div align="center"><form action="porReconectar.php">
-      <div align="center">
-        <input type="submit" value="Por Reconectar" />
-      </div>
-    </form></div></td>
-    </tr>
-    
-	<? } ?>
-</table>
-
-
+    </nav>
+  
 </div>
 		  
-		  </section>
-  </section>
-  <footer class="footer">
-    <a href="">Términos de uso</a>
-    <a href="">Declaración de privacidad</a>
-    <a href="">Centro de ayudas</a>
-  </footer>
- 
+		 </section>
+
+</section>
+<?php
+  
+include("footer.html");
+
+?>
 </body>
 </html>

@@ -17,3 +17,4 @@ Validador/_notes/dwsync.xml
 session.php
 login.php
 Modelo/conectaDb.php
+Validador/actualizarDatosV.php

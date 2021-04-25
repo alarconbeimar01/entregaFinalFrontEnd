@@ -9,7 +9,7 @@ include("session.php");
 		<div class="header__menu__perfil">
 			<img src="imagenes/user-icon.png" alt="perfil"><p><?php echo $login_session; ?></p>
 			<ul>
-				<li><a href="">Cuenta</a></li>
+				<li><a href="actualizarDatos.php">Cuenta</a></li>
 				<li><a href="logout.php">Salir</a></li>
 			</ul>
 		</div>

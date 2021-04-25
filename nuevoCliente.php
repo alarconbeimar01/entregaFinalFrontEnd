@@ -20,10 +20,11 @@ include("header.php");
 
 ?>
 	  <section class="main">
+          <h2 class=" main_tible">Registro de Cliente</h2>
 		  <section class="main__container">
 
 
-  <h2 class=" main_tible">Registro de Cliente</h2>
+  
 		<p>
 	<form method="post" name="recaudar"  action="Validador/nuevoClienteV.php" onSubmit="return preguntarNC()">
 		<input type="text" required="required" class="input_buscar" placeholder="Nombre..." name="nombre" id="nombre">
@@ -31,7 +32,7 @@ include("header.php");
 		<input type="number" required="required" class="input_buscar" placeholder="Teléfono..." name="tel" id="tel">
 		<input type="email" required="required" class="input_buscar" placeholder="mail..." name="mail" id="mail">
 		</p><p>
-		<select name="ciudad" id="ciudad" >		
+		<select class="input" name="ciudad" id="ciudad" >		
         	<option >Seleccione Ciudad</option>
         	<option value="Génova">Génova </option> 
          </select>
@@ -52,7 +53,7 @@ $sql ="CALL LISTARPLANES()";
 $respuesta = mysqli_query($conexion, $sql);
 ?>
 
-      <td><select name="plan" id="plan">
+      <td><select class="input" name="plan" id="plan">
         <option>Seleccione Plan</option>
         
         <?php
