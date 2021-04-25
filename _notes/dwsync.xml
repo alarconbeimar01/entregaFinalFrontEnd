@@ -6,12 +6,12 @@
 <file name="error_log" server="bealri.com/public_html/yp/" local="132638593800000000" remote="132638593800000000" Dst="0" />
 <file name="login.php" server="bealri.com/public_html/yp/" local="132635201400000000" remote="132635201400000000" Dst="0" />
 <file name="logout.php" server="bealri.com/public_html/yp/" local="132635218800000000" remote="132635218800000000" Dst="0" />
-<file name="entrada.php" server="bealri.com/public_html/yp/" local="132638606896090043" remote="132638606400000000" Dst="0" />
-<file name="porInstalar.php" server="bealri.com/public_html/yp/" local="132636827333006248" remote="132636826800000000" Dst="0" />
-<file name="header.php" server="bealri.com/public_html/yp/" local="132638593376466665" remote="132638593200000000" Dst="0" />
+<file name="entrada.php" server="bealri.com/public_html/yp/" local="132638663086101659" remote="132638662800000000" Dst="0" />
+<file name="porInstalar.php" server="bealri.com/public_html/yp/" local="132638668541952826" remote="132638668200000000" Dst="0" />
+<file name="header.php" server="bealri.com/public_html/yp/" local="132638649944610715" remote="132638650200000000" Dst="0" />
 <file name="footer.html" server="bealri.com/public_html/yp/" local="132636755841703391" remote="132636756000000000" Dst="0" />
 <file name="nuevoCliente.php" server="bealri.com/public_html/yp/" local="132638559857361620" remote="132638559600000000" Dst="0" />
-<file name="instalar.php" server="bealri.com/public_html/yp/" local="132636838224282498" remote="132636838200000000" Dst="0" />
+<file name="instalar.php" server="bealri.com/public_html/yp/" local="132638664719276334" remote="132638664600000000" Dst="0" />
 <file name="generarCobrar.php" server="bealri.com/public_html/yp/" local="132637507772716305" remote="132637507200000000" Dst="0" />
 <file name="recaudar.php" server="bealri.com/public_html/yp/" local="132637553663588776" remote="132637553400000000" Dst="0" />
 <file name="imprimirRecaudo.php" server="bealri.com/public_html/yp/" local="132637553400000000" remote="132637553400000000" Dst="0" />
@@ -28,6 +28,6 @@
 <file name="reconectarCliente.php" server="bealri.com/public_html/yp/" local="132637747218379647" remote="132637747200000000" Dst="0" />
 <file name="registro.php" server="bealri.com/public_html/yp/" local="132638573548203401" remote="132638573400000000" Dst="0" />
 <file name="actualizarDatos.php" server="bealri.com/public_html/yp/" local="132638609629531081" remote="132638609400000000" Dst="0" />
-<file name="changepass.php" server="bealri.com/public_html/yp/" local="132638610552661147" remote="132638610600000000" Dst="0" />
+<file name="changepass.php" server="bealri.com/public_html/yp/" local="132638642434170610" remote="132638642400000000" Dst="0" />
 <file name="profile.php" server="bealri.com/public_html/yp/" local="132636627000000000" remote="132636627000000000" Dst="0" />
 </dwsync>

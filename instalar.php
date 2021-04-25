@@ -19,7 +19,9 @@
 include("header.php");
 
 ?>
+   
 	  <section class="main">
+          
 		  <section class="main__container--tablas">
 <?php
 

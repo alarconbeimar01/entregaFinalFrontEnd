@@ -52,9 +52,30 @@ function validarContrasenas(form)
 
     {
 
-		
-
     alert("La contraseña no coincide.");
+
+    return false;
+
+    }
+
+}
+
+function confirmarContrasenas(form)
+
+{
+
+    if(form.nueva.value == form.confirmar.value)
+
+    { form.submit();
+
+	
+	}
+
+    else
+
+    {
+
+    alert("La confirmación contraseña no coincide.");
 
     return false;
 
@@ -100,6 +121,3 @@ function mensajeErrorLogin(){
 	 alert("Usuario o contraseña invalida")
 	
 }
-
-   
-

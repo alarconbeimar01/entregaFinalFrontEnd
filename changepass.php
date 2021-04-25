@@ -51,8 +51,8 @@ $filas = mysqli_fetch_array($respuesta);
   
   <div align="center"></div>
 	
-<form action="#" method="post" class="login-main">
- <div align="center">
+<form class="main__container--form" action="#" method="post">
+ 
   
    
   <table width="auto%" border="1">
@@ -64,8 +64,9 @@ $filas = mysqli_fetch_array($respuesta);
         </td>
       </tr>
     <tr>
+        
       <th scope="row">Contraseña Anterior</th>
-      <td><input class="input" type="password" name="anterior" id="anterior" ></td>
+      <td><input class="input" type="password" name="anterior" id="anterior"></td>
       </tr>
     <tr>
       <th scope="row">Nueva Contraseña</th>
@@ -73,10 +74,10 @@ $filas = mysqli_fetch_array($respuesta);
     </tr>
     <tr>
       <th scope="row">Confirmar Nueva  Contraseña</th>
-      <td><input class="input" type="password" name="confirmar" id="confirmar" ></td>
+      <td><input class="input" type="password" name="confirmar" id="confirmar"  ></td>
       </tr>
     <tr>
-      <th colspan="2" scope="row"><input class="button" type="submit" name="actualizar" id="actualizar" value="Cambiar Contraseña">
+      <th colspan="2" scope="row"><input class="button" type="button" name="actualizar" id="actualizar" value="Cambiar Contraseña" onClick="confirmarContrasenas(this.form)">
        </th>
     </tr>
   </table>
