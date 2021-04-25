@@ -19,6 +19,7 @@ include("header.php");
 
 ?>
 	  <section class="main">
+          <h4 align="center">Modificar Datos de Usuario</h4>
 		  <section class="main__container">
 <?php
 
@@ -49,7 +50,7 @@ $filas = mysqli_fetch_array($respuesta);
 
   
   
-  <h4 align="center">Modificar Datos de Usuario</h4>
+  
   <div align="center"></div>
 	
 <form action="Validador/actualizarDatosV.php" method="post" class="login-main">
@@ -66,14 +67,14 @@ $filas = mysqli_fetch_array($respuesta);
       </tr>
     <tr>
       <th scope="row">E-mail</th>
-      <td><input type="email" name="email" id="email" value="<?php echo $correo?>"></td>
+      <td><input class="input" type="email" name="email" id="email" value="<?php echo $correo?>"></td>
       </tr>
     <tr>
       <th scope="row">Telefono</th>
-      <td><input type="number" name="telefono" id="telefono" value="<?php echo $telefono?>"></td>
+      <td><input class="input" type="number" name="telefono" id="telefono" value="<?php echo $telefono?>"></td>
       </tr>
     <tr>
-      <th colspan="2" scope="row"><input type="submit" name="actualizar" id="actualizar" value="Actualizar">
+      <th colspan="2" scope="row"><input class="button" type="submit" name="actualizar" id="actualizar" value="Actualizar">
         <?
 if (isset($_REQUEST['Actualizacion']))
 {
@@ -100,12 +101,11 @@ elseif($mensaje=='Error'){
 
 
 </form>
-<br>
-<div align="center">
-      <input width="100%" class="login-main" type="button" value="Cambiar Contraseña" onClick="location.href='changepass.php'">
-    </div>
-</section>
 
+      
+   
+</section>
+<input  class="button" type="button" value="Cambiar Contraseña" onClick="location.href='changepass.php'">
 </section>
 <?php
   
