@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="index.php" server="bealri.com/public_html/yp/" local="132635254820369948" remote="132635254800000000" Dst="0" />
+<file name="index.php" server="bealri.com/public_html/yp/" local="132640045281300203" remote="132640045200000000" Dst="0" />
 <file name=".gitignore" server="bealri.com/public_html/yp/" local="132638607969284595" remote="132640041600000000" Dst="0" />
 <file name="session.php" server="bealri.com/public_html/yp/" local="132635217471478597" remote="132635217000000000" Dst="0" />
 <file name="error_log" server="bealri.com/public_html/yp/" local="132638665800000000" remote="132638665800000000" Dst="0" />
@@ -31,4 +31,7 @@
 <file name="changepass.php" server="bealri.com/public_html/yp/" local="132638642434170610" remote="132638642400000000" Dst="0" />
 <file name="profile.php" server="bealri.com/public_html/yp/" local="132636627000000000" remote="132636627000000000" Dst="0" />
 <file name="nav.php" server="bealri.com/public_html/yp/" local="132638665800000000" remote="132638665800000000" Dst="0" />
+<file name="CentroAyudas.html" server="bealri.com/public_html/yp/" local="132640048047428710" remote="132640047600000000" Dst="0" />
+<file name="Declaracionprivacidad.html" server="bealri.com/public_html/yp/" local="132640048108358599" remote="132640047600000000" Dst="0" />
+<file name="terminosuso.html" server="bealri.com/public_html/yp/" local="132640048172267080" remote="132640047600000000" Dst="0" />
 </dwsync>

@@ -63,9 +63,9 @@ header("location: entrada.php");
 	</section>
   </section>
   <footer class="footer">
-    <a href="">Términos de uso</a>
-    <a href="">Declaración de privacidad</a>
-    <a href="">Centro de ayudas</a>
+    <a href="terminosuso.html">Términos de uso</a>
+    <a href="Declaracionprivacidad.html">Declaración de privacidad</a>
+    <a href="CentroAyudas.html">Centro de ayudas</a>
   </footer>
  
 </body>
