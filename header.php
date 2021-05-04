@@ -1,7 +1,5 @@
-<?php
-  
+<?php  
 include("session.php");
-
 ?>
 <header class="header">
 	<a href="index.php"><img class="header__img" src="imagenes/iconologo.png" alt="Logo"></a>
@@ -15,4 +13,3 @@ include("session.php");
 		</div>
 	</div>
 </header>
-

@@ -96,7 +96,7 @@ $registrado = mysqli_affected_rows($conexion); // filas afectadas
     <td style="background: red; border-radius: 8px;"><? echo number_format($valor) ?></td>
   </tr>
 </table>
-<form action="Validador/recaudarV.php" method="post" name="recaudar">
+<form action="Validador/recaudarV.php" method="post" name="recaudar" onSubmit="return preguntarRecaudar()">
 
 <input type="hidden" hidden="" name="refCliente" id="refCliente" value="<? echo $refCliente ?>" />
 
